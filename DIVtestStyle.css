@@ -25,3 +25,7 @@ table {
 th,td {
   border:1px solid black;
 }
+a::before {
+  content: "\21d2";
+  font-family: serif;Times New Roman;
+}
